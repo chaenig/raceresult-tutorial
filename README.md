@@ -15,6 +15,8 @@
 - Konfigurationsdatei: [configs/100m.ses](configs/100m.ses)
 - Startaufstellung: Startlinie
 - Bodenantenne: Ziellinie
+- Falls die Schülerinnen und Schüler in mehreren Wellen laufen, dann muss nach jeder Welle die Zeitnahme am Decoder beendet werden:<br/>
+  "MENU" -> "OK" -> "Pfeil nach unten" -> "OK"
 
 ### 800m
 - Konfigurationsdatei: [configs/800m.ses](configs/800m.ses)
